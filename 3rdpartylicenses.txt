@@ -521,6 +521,9 @@ MIT
 popper.js
 MIT
 
+@angular/service-worker
+MIT
+
 zone.js
 MIT
 The MIT License
